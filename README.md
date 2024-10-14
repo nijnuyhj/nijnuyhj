@@ -14,6 +14,9 @@
 ### 🌿 Frameworks & Libraries
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=black"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue"> <img src="https://img.shields.io/badge/Mongoose-47A248?style=for-the-badge&logo=mongoose&logoColor=white">
 
+### 💻 Backend Technologies
+<img src="https://img.shields.io/badge/Servlet-6DB33F?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/JSP-6DB33F?style=for-the-badge&logo=java&logoColor=white">
+
 ### 💾 Databases
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 
@@ -27,8 +30,11 @@
 
 ### 📊 GitHub & Solved.ac Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijnuyhj&show_icons=true&theme=dark)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=nijnuyhj&show_icons=true&theme=dark" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijnuyhj&langs_count=10&layout=compact&theme=dark" height="180">
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijnuyhj&langs_count=10&layout=compact&theme=dark)](https://github.com/nijnuyhj/nijnuyhj)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjin9603)](https://solved.ac/hyunjin9603/)
+<div align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hyunjin9603" height="200">
+</div>

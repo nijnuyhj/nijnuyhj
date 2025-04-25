@@ -1,6 +1,4 @@
 # JUNG HYUN JIN 😉
----
-
 
 ## 📚 SKILLS 📚
 
